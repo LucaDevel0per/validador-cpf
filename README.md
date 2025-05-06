@@ -19,6 +19,7 @@ Sistema web que permite gerar CPFs válidos e validar números de CPF existentes
 1. Clone o repositório:
 ```bash
 git clone https://github.com/LucaDevel0per/validador-cpf.git
+```
 
 2. Abra o arquivo `index.html` em seu navegador
 
